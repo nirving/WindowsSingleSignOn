@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="https://oim.darkedges.local" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="Default Web Site/FormsAuthAd" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="True" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="True" profileName="IIS" publishMethod="MSDeploy" replaceMatchingFiles="True" userName="administrator" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAEWfIu0rAFEi2+bVL6cbTgQAAAAACAAAAAAADZgAAwAAAABAAAAB9IXrt6H8XCwwpsT58IE2zAAAAAASAAACgAAAAEAAAAGVInkIdJ1s9wFX1S+gWxJsgAAAA3HdxhibhZJmjH1Z/k3SDe73NtdAzKYHWPws/iKoQyesUAAAA0VGkmnVWce6OUZywC/54bgYIXqM=" SelectedForPublish="True" />
+</publishData>
